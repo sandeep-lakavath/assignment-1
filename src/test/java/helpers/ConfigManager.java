@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @author Suresh
+ * @author Sandeep
  *
  */
 public class ConfigManager {

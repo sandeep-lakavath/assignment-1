@@ -25,7 +25,7 @@ import helpers.ConfigManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
- * @author Suresh
+ * @author Sandeep
  * 
  */
 
